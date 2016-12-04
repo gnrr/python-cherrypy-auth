@@ -1,5 +1,8 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
+
+# python ./main.py
+
 import cherrypy
 import sqlite3
 
